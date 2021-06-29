@@ -1,3 +1,3 @@
 export default function print(value) {
-  console.log(value);
+  console.log("foo", value);
 }
